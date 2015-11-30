@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C7AE29701C0CBDF600755133"
-               BuildableName = "Retro Calculator.app"
-               BlueprintName = "Retro Calculator"
-               ReferencedContainer = "container:Retro Calculator.xcodeproj">
+               BuildableName = "Retro Calc.app"
+               BlueprintName = "Retro Calc"
+               ReferencedContainer = "container:Retro Calc.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C7AE29701C0CBDF600755133"
-            BuildableName = "Retro Calculator.app"
-            BlueprintName = "Retro Calculator"
-            ReferencedContainer = "container:Retro Calculator.xcodeproj">
+            BuildableName = "Retro Calc.app"
+            BlueprintName = "Retro Calc"
+            ReferencedContainer = "container:Retro Calc.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C7AE29701C0CBDF600755133"
-            BuildableName = "Retro Calculator.app"
-            BlueprintName = "Retro Calculator"
-            ReferencedContainer = "container:Retro Calculator.xcodeproj">
+            BuildableName = "Retro Calc.app"
+            BlueprintName = "Retro Calc"
+            ReferencedContainer = "container:Retro Calc.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C7AE29701C0CBDF600755133"
-            BuildableName = "Retro Calculator.app"
-            BlueprintName = "Retro Calculator"
-            ReferencedContainer = "container:Retro Calculator.xcodeproj">
+            BuildableName = "Retro Calc.app"
+            BlueprintName = "Retro Calc"
+            ReferencedContainer = "container:Retro Calc.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
